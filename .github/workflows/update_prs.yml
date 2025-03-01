@@ -13,14 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false
-
-      - name: Set up Git Config
-        run: |
-          git config --local user.email "your_email@example.com"
-          git config --local user.name "GitHub Action"
+        uses: actions/checkout@v2
 
       - name: Fetch Recent PRs
         env:
