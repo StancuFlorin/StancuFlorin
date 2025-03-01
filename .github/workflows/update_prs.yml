@@ -1,0 +1,38 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Fetch Recent Pull Requests
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          prs=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+          "https://api.github.com/search/issues?q=is:pr+author:your_username&sort=created&order=desc&per_page=5")
+          
+          echo "## Recent Open Source Contributions" > pr_list.md
+          echo "" >> pr_list.md
+          
+          echo "$prs" | jq -r '.items[] | "- [\(.title)](\(.html_url)) - \(.repository_url | split("/") | last)"' >> pr_list.md
+
+      - name: Update README
+        run: |
+          awk '/<!-- START PRS -->/{print; system("cat pr_list.md"); next} /<!-- END PRS -->/{found=1} {if(found) print}' README.md > README_tmp.md
+          mv README_tmp.md README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "your_email@example.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with recent pull requests" || echo "No changes to commit"
+          git push
