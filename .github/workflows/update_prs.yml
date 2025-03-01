@@ -37,8 +37,8 @@ jobs:
 
       - name: Combine Open and Merged PRs
         run: |
-          # Combine both open and merged PRs
-          jq -s '[.[][]] | sort_by(.created_at) | .[:10]' open_prs.json merged_prs.json > all_prs.json
+          # Combine both open and merged PRs and ensure valid objects with "created_at"
+          jq -s '[.[][] | select(.created_at != null)] | sort_by(.created_at) | .[:10]' open_prs.json merged_prs.json > all_prs.json
 
       - name: Format PRs for README
         run: |
