@@ -35,12 +35,16 @@ jobs:
           echo "## 🚀 Recent Open Source Contributions" > pr_list.md
           echo "" >> pr_list.md
 
-          # Updated jq filter with proper escaping
-          echo "$prs" | jq -r '.items[] | select(.repository_url | contains("example-org") | not) | select(.repository_url | contains("bad-user") | not) |
-          "- \(.title | select(contains(\"fix\")) | "\uD83D\uDC28 Bug Fix: ") 
-          | \(.title | select(contains(\"add\")) | "\uD83C\uDF89 Feature: ") 
-          | \(.title | select(contains(\"fix\") | not && contains(\"add\") | not) | "\uD83D\uDD27 Update: ") 
-          [\(.title)](\(.html_url)) - \(.repository_url | split("/") | last)"' >> pr_list.md
+          # Corrected jq syntax for filtering PRs and adding emojis
+          echo "$prs" | jq -r '.items[] |
+            select(.repository_url | contains("example-org") | not) |
+            select(.repository_url | contains("bad-user") | not) |
+            "- " + (
+              if .title | test("fix"; "i") then "🐛 Bug Fix: " 
+              elif .title | test("add"; "i") then "🎉 Feature: " 
+              else "🛠️ Update: " 
+              end
+            ) + "[\(.title)](\(.html_url)) - \(.repository_url | split("/") | last)"' >> pr_list.md
 
       - name: Update README
         run: |
