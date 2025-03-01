@@ -37,9 +37,12 @@ jobs:
           echo "Merged PRs Response: $merged_prs"
           echo "$merged_prs" > merged_prs.json
 
-      - name: Combine Open and Merged PRs
+      - name: Debug Combined PR Data
         run: |
-          # Check if data exists and combine if available
+          # Check if the open and merged PRs were retrieved
+          echo "Open PRs file contents: $(cat open_prs.json)"
+          echo "Merged PRs file contents: $(cat merged_prs.json)"
+          # Check combined data
           if [ -s open_prs.json ] && [ -s merged_prs.json ]; then
             jq -s '[.[][] | select(type == "object" and .created_at != null)] | sort_by(.created_at) | .[:10]' open_prs.json merged_prs.json > all_prs.json
           else
