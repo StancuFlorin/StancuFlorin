@@ -35,9 +35,12 @@ jobs:
           echo "## 🚀 Recent Open Source Contributions" > pr_list.md
           echo "" >> pr_list.md
 
-          # Correct jq filter with proper escaping
+          # Updated jq filter with proper escaping
           echo "$prs" | jq -r '.items[] | select(.repository_url | contains("example-org") | not) | select(.repository_url | contains("bad-user") | not) |
-          "- \(.title | if contains(\"fix\") then \"🐛 Bug Fix: \" else if contains(\"add\") then \"🎉 Feature: \" else \"🛠️ Update: \" end) [\(.title)](\(.html_url)) - \(.repository_url | split(\"/\") | last)"' >> pr_list.md
+          "- \(.title | select(contains(\"fix\")) | "\uD83D\uDC28 Bug Fix: ") 
+          | \(.title | select(contains(\"add\")) | "\uD83C\uDF89 Feature: ") 
+          | \(.title | select(contains(\"fix\") | not && contains(\"add\") | not) | "\uD83D\uDD27 Update: ") 
+          [\(.title)](\(.html_url)) - \(.repository_url | split("/") | last)"' >> pr_list.md
 
       - name: Update README
         run: |
