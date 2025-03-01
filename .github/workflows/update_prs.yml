@@ -25,8 +25,11 @@ jobs:
           echo "## Recent Open Source Contributions ✨" > pr_list.md
           echo "" >> pr_list.md
           
-          # Filter PRs to exclude those from the 'StancuFlorin' organization
-          echo "$prs" | jq -r '.items[] | select(.repository_url | contains("github.com/StancuFlorin") | not) | "- [\(.title)](\(.html_url)) - \(.repository_url | split("/") | last) :octocat:"' >> pr_list.md
+          # Filter out PRs from repositories in the "StancuFlorin" organization
+          echo "$prs" | jq -r '
+            .items[] | 
+            select(.repository_url | contains("github.com/StancuFlorin") | not) | 
+            "- [\(.title)](\(.html_url)) - \(.repository_url | split("/") | last) :octocat:"' >> pr_list.md
 
       - name: Update README
         run: |
