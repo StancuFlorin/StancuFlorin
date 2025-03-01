@@ -20,13 +20,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           prs=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
-          "https://api.github.com/search/issues?q=is:pr+author:StancuFlorin+NOT+repo:StancuFlorin&sort=created&order=desc&per_page=5")
+          "https://api.github.com/search/issues?q=is:pr+author:StancuFlorin&sort=created&order=desc&per_page=5")
 
           echo "## Recent Open Source Contributions ✨" > pr_list.md
           echo "" >> pr_list.md
           
-          # Format the PR list with some emoji flair
-          echo "$prs" | jq -r '.items[] | "- [\(.title)](\(.html_url)) - \(.repository_url | split("/") | last) :octocat:"' >> pr_list.md
+          # Filter PRs to exclude those from the 'StancuFlorin' organization
+          echo "$prs" | jq -r '.items[] | select(.repository_url | contains("github.com/StancuFlorin") | not) | "- [\(.title)](\(.html_url)) - \(.repository_url | split("/") | last) :octocat:"' >> pr_list.md
 
       - name: Update README
         run: |
