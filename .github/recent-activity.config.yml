@@ -6,6 +6,8 @@ settings:
   disabled_events:
     - "comments"
     - "fork"
+    - "push"
+    - "pr_close"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
