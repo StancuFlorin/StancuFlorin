@@ -1,10 +1,11 @@
 settings:
   username: "StancuFlorin" # Replace with your username or comment out this line
   commit_msg: "⚡ Update README with the recent activity"
-  max_lines: 5
+  max_lines: 15
   readme_file: "./README.md"
   disabled_events:
     - "comments"
+    - "fork"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
@@ -15,7 +16,6 @@ settings:
   line_prefix: "{NUM}. "
   ignored_repos:
     - username/repo
-  disabled_events: [comments, fork]
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
