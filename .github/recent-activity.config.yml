@@ -15,6 +15,7 @@ settings:
   line_prefix: "{NUM}. "
   ignored_repos:
     - username/repo
+  disabled_events: [comments, fork]
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
