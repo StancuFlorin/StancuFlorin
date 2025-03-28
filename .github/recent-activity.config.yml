@@ -8,6 +8,7 @@ settings:
     - "fork"
     - "push"
     - "pr_close"
+    - "issues_close"
   url_text: "{REPO}{ID}"
   date:
     timezone: "GMT+00:00"
