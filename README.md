@@ -3,12 +3,13 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#95](https://github.com/ErugoOSS/Erugo/issues/95) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
-2. ⭐ Starred [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
-3. ❗️ Opened issue [#94](https://github.com/ErugoOSS/Erugo/issues/94) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
-4. ❗️ Opened issue [#93](https://github.com/ErugoOSS/Erugo/issues/93) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
+1. ⭐ Starred [amir20/dozzle](https://github.com/amir20/dozzle)<br>
+2. ❗️ Opened issue [#95](https://github.com/ErugoOSS/Erugo/issues/95) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
+3. ⭐ Starred [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
+4. ❗️ Opened issue [#94](https://github.com/ErugoOSS/Erugo/issues/94) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
+5. ❗️ Opened issue [#93](https://github.com/ErugoOSS/Erugo/issues/93) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 16th, 2025, 8:39:30 PM
+Last Updated: Wednesday, April 16th, 2025, 9:13:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
