@@ -5,11 +5,8 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [amir20/dozzle](https://github.com/amir20/dozzle)<br>
 2. ❗️ Opened issue [#95](https://github.com/ErugoOSS/Erugo/issues/95) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
-3. ⭐ Starred [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
-4. ❗️ Opened issue [#94](https://github.com/ErugoOSS/Erugo/issues/94) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
-5. ❗️ Opened issue [#93](https://github.com/ErugoOSS/Erugo/issues/93) in [ErugoOSS/Erugo](https://github.com/ErugoOSS/Erugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 4th, 2025, 5:11:35 PM
+Last Updated: Sunday, May 4th, 2025, 5:36:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
