@@ -9,3 +9,5 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, May 10th, 2025, 3:36:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+
+<iframe src="https://github.com/sponsors/StancuFlorin/card" title="Sponsor StancuFlorin" height="225" width="600" style="border: 0;"></iframe>
