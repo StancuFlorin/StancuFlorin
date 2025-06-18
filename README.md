@@ -5,12 +5,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ❌ Closed PR [#10](https://github.com/StancuFlorin/homepage-plus/pull/10) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
 2. 💪 Opened PR [#10](https://github.com/StancuFlorin/homepage-plus/pull/10) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
-3. 🎉 Merged PR [#9](https://github.com/StancuFlorin/homepage-plus/pull/9) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
-4. 💪 Opened PR [#9](https://github.com/StancuFlorin/homepage-plus/pull/9) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
-5. 💪 Opened PR [#5286](https://github.com/gethomepage/homepage/pull/5286) in [gethomepage/homepage](https://github.com/gethomepage/homepage)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, June 18th, 2025, 1:14:30 AM
+Last Updated: Wednesday, June 18th, 2025, 3:00:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
