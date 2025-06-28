@@ -3,11 +3,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#10](https://github.com/StancuFlorin/homepage-plus/pull/10) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
-2. 💪 Opened PR [#10](https://github.com/StancuFlorin/homepage-plus/pull/10) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+1. 🎉 Merged PR [#12](https://github.com/StancuFlorin/homepage-plus/pull/12) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+2. 💪 Opened PR [#12](https://github.com/StancuFlorin/homepage-plus/pull/12) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+3. ❌ Closed PR [#11](https://github.com/StancuFlorin/homepage-plus/pull/11) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+4. 💪 Opened PR [#11](https://github.com/StancuFlorin/homepage-plus/pull/11) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+5. ❌ Closed PR [#10](https://github.com/StancuFlorin/homepage-plus/pull/10) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+6. 💪 Opened PR [#10](https://github.com/StancuFlorin/homepage-plus/pull/10) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 28th, 2025, 1:42:17 PM
+Last Updated: Saturday, June 28th, 2025, 2:12:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
