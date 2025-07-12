@@ -3,13 +3,14 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/StancuFlorin/homepage-plus/pull/12) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
-2. 💪 Opened PR [#12](https://github.com/StancuFlorin/homepage-plus/pull/12) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
-3. ❌ Closed PR [#11](https://github.com/StancuFlorin/homepage-plus/pull/11) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
-4. 💪 Opened PR [#11](https://github.com/StancuFlorin/homepage-plus/pull/11) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+1. ❗️ Opened issue [#572](https://github.com/swingerman/lovelace-fluid-level-background-card/issues/572) in [swingerman/lovelace-fluid-level-background-card](https://github.com/swingerman/lovelace-fluid-level-background-card)<br>
+2. 🎉 Merged PR [#12](https://github.com/StancuFlorin/homepage-plus/pull/12) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+3. 💪 Opened PR [#12](https://github.com/StancuFlorin/homepage-plus/pull/12) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+4. ❌ Closed PR [#11](https://github.com/StancuFlorin/homepage-plus/pull/11) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+5. 💪 Opened PR [#11](https://github.com/StancuFlorin/homepage-plus/pull/11) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 12th, 2025, 2:40:30 PM
+Last Updated: Saturday, July 12th, 2025, 3:14:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
