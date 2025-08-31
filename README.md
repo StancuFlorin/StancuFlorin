@@ -3,10 +3,13 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [StancuFlorin/velotale](https://github.com/StancuFlorin/velotale)<br>
+1. 💪 Opened PR [#13](https://github.com/StancuFlorin/homepage-plus/pull/13) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
+2. ❌ Closed PR [#5730](https://github.com/gethomepage/homepage/pull/5730) in [gethomepage/homepage](https://github.com/gethomepage/homepage)<br>
+3. 💪 Opened PR [#5730](https://github.com/gethomepage/homepage/pull/5730) in [gethomepage/homepage](https://github.com/gethomepage/homepage)<br>
+4. 📔 Created new repository [StancuFlorin/velotale](https://github.com/StancuFlorin/velotale)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 31st, 2025, 9:12:17 PM
+Last Updated: Sunday, August 31st, 2025, 9:34:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
