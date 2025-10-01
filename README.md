@@ -11,12 +11,9 @@
 6. ❌ Closed PR [#13](https://github.com/StancuFlorin/homepage-plus/pull/13) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
 7. ❌ Closed PR [#756](https://github.com/AnalogJ/scrutiny/pull/756) in [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny)<br>
 8. ❌ Closed PR [#2490](https://github.com/homarr-labs/homarr/pull/2490) in [homarr-labs/homarr](https://github.com/homarr-labs/homarr)<br>
-9. 💪 Opened PR [#13](https://github.com/StancuFlorin/homepage-plus/pull/13) in [StancuFlorin/homepage-plus](https://github.com/StancuFlorin/homepage-plus)<br>
-10. ❌ Closed PR [#5730](https://github.com/gethomepage/homepage/pull/5730) in [gethomepage/homepage](https://github.com/gethomepage/homepage)<br>
-11. 💪 Opened PR [#5730](https://github.com/gethomepage/homepage/pull/5730) in [gethomepage/homepage](https://github.com/gethomepage/homepage)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 1st, 2025, 1:15:45 AM
+Last Updated: Wednesday, October 1st, 2025, 2:53:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
