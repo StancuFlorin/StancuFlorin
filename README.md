@@ -3,9 +3,10 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ❗️ Opened issue [#2612](https://github.com/Tautulli/Tautulli/issues/2612) in [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 10th, 2025, 9:13:54 PM
+Last Updated: Monday, November 10th, 2025, 9:37:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
