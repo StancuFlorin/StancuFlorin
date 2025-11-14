@@ -3,10 +3,11 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2612](https://github.com/Tautulli/Tautulli/issues/2612) in [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli)<br>
+1. ❗️ Opened issue [#4289](https://github.com/sct/overseerr/issues/4289) in [sct/overseerr](https://github.com/sct/overseerr)<br>
+2. ❗️ Opened issue [#2612](https://github.com/Tautulli/Tautulli/issues/2612) in [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 14th, 2025, 3:38:11 PM
+Last Updated: Friday, November 14th, 2025, 4:19:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
