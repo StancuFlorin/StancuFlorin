@@ -5,9 +5,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ❗️ Opened issue [#4289](https://github.com/sct/overseerr/issues/4289) in [sct/overseerr](https://github.com/sct/overseerr)<br>
 2. ❗️ Opened issue [#2612](https://github.com/Tautulli/Tautulli/issues/2612) in [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli)<br>
+3. ⭐ Starred [rxliuli/apps.apple.com](https://github.com/rxliuli/apps.apple.com)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 20th, 2025, 9:35:07 PM
+Last Updated: Thursday, November 20th, 2025, 10:14:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
