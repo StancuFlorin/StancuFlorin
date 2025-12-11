@@ -6,10 +6,9 @@
 1. ⭐ Starred [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine)<br>
 2. 💪 Opened PR [#4300](undefined) in [sct/overseerr](https://github.com/sct/overseerr)<br>
 3. ❗️ Opened issue [#4289](https://github.com/sct/overseerr/issues/4289) in [sct/overseerr](https://github.com/sct/overseerr)<br>
-4. ❗️ Opened issue [#2612](https://github.com/Tautulli/Tautulli/issues/2612) in [Tautulli/Tautulli](https://github.com/Tautulli/Tautulli)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 11th, 2025, 5:18:38 AM
+Last Updated: Thursday, December 11th, 2025, 5:44:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
