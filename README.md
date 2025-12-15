@@ -5,10 +5,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine)<br>
 2. 💪 Opened PR [#4300](undefined) in [sct/overseerr](https://github.com/sct/overseerr)<br>
-3. ❗️ Opened issue [#4289](https://github.com/sct/overseerr/issues/4289) in [sct/overseerr](https://github.com/sct/overseerr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 14th, 2025, 11:37:16 PM
+Last Updated: Monday, December 15th, 2025, 1:19:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
