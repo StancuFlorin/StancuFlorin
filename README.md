@@ -3,15 +3,16 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#188](https://github.com/vikramsoni2/nextExplorer/issues/188) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
-2. ❗️ Opened issue [#6](https://github.com/jandrop/u-manager/issues/6) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
-3. ❗️ Opened issue [#5](https://github.com/jandrop/u-manager/issues/5) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
-4. ❗️ Opened issue [#4](https://github.com/jandrop/u-manager/issues/4) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
-5. ⭐ Starred [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine)<br>
-6. 💪 Opened PR [#4300](undefined) in [sct/overseerr](https://github.com/sct/overseerr)<br>
+1. ⭐ Starred [gotson/komga](https://github.com/gotson/komga)<br>
+2. ❗️ Opened issue [#188](https://github.com/vikramsoni2/nextExplorer/issues/188) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
+3. ❗️ Opened issue [#6](https://github.com/jandrop/u-manager/issues/6) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
+4. ❗️ Opened issue [#5](https://github.com/jandrop/u-manager/issues/5) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
+5. ❗️ Opened issue [#4](https://github.com/jandrop/u-manager/issues/4) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
+6. ⭐ Starred [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine)<br>
+7. 💪 Opened PR [#4300](undefined) in [sct/overseerr](https://github.com/sct/overseerr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 28th, 2025, 5:00:15 AM
+Last Updated: Sunday, December 28th, 2025, 5:45:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
