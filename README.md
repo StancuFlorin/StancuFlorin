@@ -12,10 +12,9 @@
 7. ❗️ Opened issue [#5](https://github.com/jandrop/u-manager/issues/5) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
 8. ❗️ Opened issue [#4](https://github.com/jandrop/u-manager/issues/4) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
 9. ⭐ Starred [saihgupr/HomeAssistantTimeMachine](https://github.com/saihgupr/HomeAssistantTimeMachine)<br>
-10. 💪 Opened PR [#4300](undefined) in [sct/overseerr](https://github.com/sct/overseerr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 2nd, 2026, 11:37:56 PM
+Last Updated: Saturday, January 3rd, 2026, 1:14:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
