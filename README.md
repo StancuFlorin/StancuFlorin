@@ -13,12 +13,9 @@
 8. ❗️ Opened issue [#196](https://github.com/vikramsoni2/nextExplorer/issues/196) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
 9. ⭐ Starred [gotson/komga](https://github.com/gotson/komga)<br>
 10. ❗️ Opened issue [#188](https://github.com/vikramsoni2/nextExplorer/issues/188) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
-11. ❗️ Opened issue [#6](https://github.com/jandrop/u-manager/issues/6) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
-12. ❗️ Opened issue [#5](https://github.com/jandrop/u-manager/issues/5) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
-13. ❗️ Opened issue [#4](https://github.com/jandrop/u-manager/issues/4) in [jandrop/u-manager](https://github.com/jandrop/u-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 16th, 2026, 2:19:10 PM
+Last Updated: Friday, January 16th, 2026, 2:47:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
