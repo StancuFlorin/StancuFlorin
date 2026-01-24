@@ -12,10 +12,9 @@
 7. ❗️ Opened issue [#197](https://github.com/vikramsoni2/nextExplorer/issues/197) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
 8. ❗️ Opened issue [#196](https://github.com/vikramsoni2/nextExplorer/issues/196) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
 9. ⭐ Starred [gotson/komga](https://github.com/gotson/komga)<br>
-10. ❗️ Opened issue [#188](https://github.com/vikramsoni2/nextExplorer/issues/188) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 24th, 2026, 1:17:52 AM
+Last Updated: Saturday, January 24th, 2026, 3:09:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
