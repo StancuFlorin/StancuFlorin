@@ -11,10 +11,9 @@
 6. ❗️ Opened issue [#4316](https://github.com/Kareadita/Kavita/issues/4316) in [Kareadita/Kavita](https://github.com/Kareadita/Kavita)<br>
 7. ❗️ Opened issue [#197](https://github.com/vikramsoni2/nextExplorer/issues/197) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
 8. ❗️ Opened issue [#196](https://github.com/vikramsoni2/nextExplorer/issues/196) in [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer)<br>
-9. ⭐ Starred [gotson/komga](https://github.com/gotson/komga)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 27th, 2026, 12:38:40 PM
+Last Updated: Tuesday, January 27th, 2026, 1:42:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
