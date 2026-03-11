@@ -6,10 +6,9 @@
 1. ⭐ Starred [RobAWarner/OSMC-AndroidTV-Keylayout](https://github.com/RobAWarner/OSMC-AndroidTV-Keylayout)<br>
 2. ⭐ Starred [lamadotcare/bootia32-efi](https://github.com/lamadotcare/bootia32-efi)<br>
 3. ⭐ Starred [complexlogic/flex-launcher](https://github.com/complexlogic/flex-launcher)<br>
-4. ⭐ Starred [kyledross/MaximizeWindowIntoNewWorkspace](https://github.com/kyledross/MaximizeWindowIntoNewWorkspace)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 11th, 2026, 4:05:18 AM
+Last Updated: Wednesday, March 11th, 2026, 5:30:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
