@@ -3,10 +3,11 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joel16/SwitchIdent](https://github.com/joel16/SwitchIdent)<br>
+1. ⭐ Starred [saneki/Lockpick_RCM](https://github.com/saneki/Lockpick_RCM)<br>
+2. ⭐ Starred [joel16/SwitchIdent](https://github.com/joel16/SwitchIdent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 10th, 2026, 5:18:50 PM
+Last Updated: Friday, July 10th, 2026, 6:57:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
