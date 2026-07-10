@@ -3,11 +3,13 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [saneki/Lockpick_RCM](https://github.com/saneki/Lockpick_RCM)<br>
-2. ⭐ Starred [joel16/SwitchIdent](https://github.com/joel16/SwitchIdent)<br>
+1. ⭐ Starred [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil)<br>
+2. ❗️ Opened issue [#112](https://github.com/luketanti/CyberFoil/issues/112) in [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil)<br>
+3. ⭐ Starred [saneki/Lockpick_RCM](https://github.com/saneki/Lockpick_RCM)<br>
+4. ⭐ Starred [joel16/SwitchIdent](https://github.com/joel16/SwitchIdent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 10th, 2026, 9:33:09 PM
+Last Updated: Friday, July 10th, 2026, 10:55:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
