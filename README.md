@@ -3,13 +3,15 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil)<br>
-2. ❗️ Opened issue [#112](https://github.com/luketanti/CyberFoil/issues/112) in [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil)<br>
-3. ⭐ Starred [saneki/Lockpick_RCM](https://github.com/saneki/Lockpick_RCM)<br>
-4. ⭐ Starred [joel16/SwitchIdent](https://github.com/joel16/SwitchIdent)<br>
+1. ❗️ Opened issue [#134](https://github.com/luketanti/AeroFoil/issues/134) in [luketanti/AeroFoil](https://github.com/luketanti/AeroFoil)<br>
+2. ⭐ Starred [luketanti/AeroFoil](https://github.com/luketanti/AeroFoil)<br>
+3. ⭐ Starred [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil)<br>
+4. ❗️ Opened issue [#112](https://github.com/luketanti/CyberFoil/issues/112) in [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil)<br>
+5. ⭐ Starred [saneki/Lockpick_RCM](https://github.com/saneki/Lockpick_RCM)<br>
+6. ⭐ Starred [joel16/SwitchIdent](https://github.com/joel16/SwitchIdent)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 11th, 2026, 5:24:34 AM
+Last Updated: Saturday, July 11th, 2026, 7:23:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
