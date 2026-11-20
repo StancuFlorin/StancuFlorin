@@ -3,15 +3,10 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5](undefined) in [StancuFlorin/LibreELEC.tv](https://github.com/StancuFlorin/LibreELEC.tv)<br>
-2. 💪 Opened PR [#4](undefined) in [StancuFlorin/LibreELEC.tv](https://github.com/StancuFlorin/LibreELEC.tv)<br>
-3. 💪 Opened PR [#3](undefined) in [StancuFlorin/LibreELEC.tv](https://github.com/StancuFlorin/LibreELEC.tv)<br>
-4. 💪 Opened PR [#2](undefined) in [StancuFlorin/LibreELEC.tv](https://github.com/StancuFlorin/LibreELEC.tv)<br>
-5. 💪 Opened PR [#1](undefined) in [StancuFlorin/LibreELEC.tv](https://github.com/StancuFlorin/LibreELEC.tv)<br>
-6. ❗️ Opened issue [#3](https://github.com/Xziip/LingoBrew/issues/3) in [Xziip/LingoBrew](https://github.com/Xziip/LingoBrew)<br>
+1. ❗️ Opened issue [#3](https://github.com/Xziip/LingoBrew/issues/3) in [Xziip/LingoBrew](https://github.com/Xziip/LingoBrew)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 20th, 2026, 9:33:27 AM
+Last Updated: Friday, November 20th, 2026, 6:13:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
